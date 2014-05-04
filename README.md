@@ -85,8 +85,7 @@ This last step aims to find a piece-wise polynom that fit the curve of the
 road. The method is the following:
 
 1. Divide the points in $N$ subsets.
-2. For each subset, fit the points with a third degree polynom with [np.polyfi
-t](http://docs.scipy.org/doc/numpy/reference/generated/numpy.polyfit.html).
+2. For each subset, fit the points with a third degree polynom with [np.polyfit](http://docs.scipy.org/doc/numpy/reference/generated/numpy.polyfit.html).
 3. Display the polynoms over the point cloud.
 
 ![Result after line fitting](img/line_fitting.png?raw=true)
