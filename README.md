@@ -46,7 +46,7 @@ have a dynamic threshold on elevation by processing the whole data by small
 chunks.
 
 After preprocessing the 13 GB of data with these filters, the remaining data
-takes only 74 MB os storage: this is way easier to process!
+takes only 74 MB of storage: this is way easier to process!
 
 ![Result after preprocessing](img/preprocess.png?raw=true)
 
